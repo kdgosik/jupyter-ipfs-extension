@@ -1,0 +1,26 @@
+{
+  "name": "ipfs-extension",
+  "version": "0.1.0",
+  "description": "IPFS extension for Jupyter",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kdgosik/jupyter-ipfs-extension.git"
+  },
+  "keywords": [
+    "jupyter",
+    "ipfs"
+  ],
+  "author": "Kirk Gosik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kdgosik/jupyter-ipfs-extension/issues"
+  },
+  "homepage": "https://github.com/kdgosik/jupyter-ipfs-extension#readme",
+  "dependencies": {
+    "ipfs": "^0.28.2"
+  }
+}

@@ -1,0 +1,7 @@
+Type: Jupyter Notebook Extension
+Compatibility: 4.x, 5.x
+Name: IPFS Extension
+Main: main.js
+Icon: icon.png
+Link: README.md
+Description: Jupyter interaction with IPFS to hash the contents of the cells.
